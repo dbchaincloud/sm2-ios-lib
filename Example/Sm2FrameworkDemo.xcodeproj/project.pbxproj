@@ -157,6 +157,8 @@
 			children = (
 				816B32ED271565D700AED81F /* ChainType.swift */,
 				816B32EC271565D700AED81F /* SegwitAddrCoder.swift */,
+				816B32E7271565C500AED81F /* Bech32.swift */,
+				816B32E6271565C500AED81F /* Sm2FrameworkDemo-Bridging-Header.h */,
 				810E007E27043CBE00F51CEC /* AppDelegate.h */,
 				810E007F27043CBE00F51CEC /* AppDelegate.m */,
 				810E008127043CBE00F51CEC /* SceneDelegate.h */,
@@ -168,8 +170,6 @@
 				810E008C27043CC600F51CEC /* LaunchScreen.storyboard */,
 				810E008F27043CC600F51CEC /* Info.plist */,
 				810E009027043CC600F51CEC /* main.m */,
-				816B32E7271565C500AED81F /* Bech32.swift */,
-				816B32E6271565C500AED81F /* Sm2FrameworkDemo-Bridging-Header.h */,
 			);
 			path = Sm2FrameworkDemo;
 			sourceTree = "<group>";
